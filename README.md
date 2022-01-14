@@ -65,7 +65,7 @@
 - to strip EXIF data: https://exiftool.org/
 - https://dangerzone.rocks/, https://github.com/firstlookmedia/dangerzone
 
-## Pastbins
+## Pastebins
 
 - https://privatebin.info/
 
