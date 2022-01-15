@@ -74,6 +74,7 @@
 
 - https://trezor.io/
 - https://www.yubico.com/
+- https://www.paralelnipolis.cz/shop/usb-condom/
 
 ## Virus Protection, Firewalls, etc.
 
@@ -81,9 +82,11 @@
 - https://www.clamav.net/
 - https://linux.die.net/man/8/iptables
 
-## Crypto
+## Payment & Crypto
 
+- just use cash
 - https://www.getmonero.org/
+- https://electrum.org/
 
 ## Ad Prevention
 
