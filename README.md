@@ -65,6 +65,7 @@
 - https://everestpipkin.github.io/image-scrubber/
 - to strip EXIF data: https://exiftool.org/
 - https://dangerzone.rocks/, https://github.com/firstlookmedia/dangerzone
+- https://onionshare.org/
 
 ## Pastebins
 
@@ -87,6 +88,9 @@
 - just use cash
 - https://www.getmonero.org/
 - https://electrum.org/
+- https://paxful.com/
+- https://bitcoin-laundry.online/
+- https://mixtum.io/
 
 ## Ad Prevention
 
