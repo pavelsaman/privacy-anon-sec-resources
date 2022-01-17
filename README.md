@@ -61,7 +61,9 @@
 
 ## Video & Images & Documents
 
-- https://invidious.snopyta.org
+- alternatives for YouTube:
+  - https://invidious.snopyta.org
+  - https://piped.kavin.rocks/
 - https://everestpipkin.github.io/image-scrubber/
 - to strip EXIF data: https://exiftool.org/
 - https://dangerzone.rocks/, https://github.com/firstlookmedia/dangerzone
