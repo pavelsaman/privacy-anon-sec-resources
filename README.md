@@ -12,6 +12,10 @@
 - https://digitalcourage.de/support/zensurfreier-dns-server
 - https://github.com/StevenBlack/hosts
 
+## VPN
+
+- https://www.ivpn.net/
+
 ## Browsers
 
 - https://www.torproject.org/, https://tb-manual.torproject.org/bridges/
@@ -98,3 +102,17 @@
 ## Ad Prevention
 
 - https://adblockplus.org/
+
+## Maps
+
+- https://www.openstreetmap.org/
+- https://organicmaps.app/ for Android
+
+## Android keyboards
+
+- https://github.com/openboard-team/openboard
+
+## Other tools
+
+- find out where you (or your ISP) is: https://whatismyipaddress.com/
+- find out what sides are blocked by ISPs in the CZE: https://www.mfcr.cz/cs/soukromy-sektor/hazardni-hry/seznam-nepovolenych-internetovych-her, https://csnog.github.io/MFCR-blacklist/
