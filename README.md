@@ -27,6 +27,7 @@
   - https://forums.informaction.com/viewtopic.php?p=104170
   - https://obsigna.com/articles/1540564495.html
   - https://firefox-source-docs.mozilla.org/toolkit/components/glean/dev/preferences.html 
+- https://amiunique.org/
 
 ## Internet Searching & Wiki
 
@@ -35,16 +36,25 @@
 - https://www.startpage.com/
 - https://www.qwant.com/
 - https://wikiless.org/
+- https://github.com/sherlock-project/sherlock
 
 ## Email
 
 - https://tutanota.com/
 - https://riseup.net/en/email
 
+## Temp Email
+
+- https://temp-mail.org/
+
 ## Messaging
 
 - https://pidgin.im/, OTR plugin https://otr.cypherpunks.ca/
 - https://www.signal.org/
+
+## SMS
+
+- https://onlinesim.ru/en/
 
 ## Encryption
 
