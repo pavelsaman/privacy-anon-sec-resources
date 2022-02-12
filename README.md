@@ -122,6 +122,10 @@
 
 - https://github.com/openboard-team/openboard
 
+## Storage
+
+- https://crypt.ee/
+
 ## Other tools
 
 - find out where you (or your ISP) is: https://whatismyipaddress.com/
