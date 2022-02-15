@@ -126,6 +126,10 @@
 
 - https://crypt.ee/
 
+## Notes
+
+- https://standardnotes.com/
+
 ## Other Tools
 
 - find out where you (or your ISP) is: https://whatismyipaddress.com/, https://api.ivpn.net/v4/geo-lookup
