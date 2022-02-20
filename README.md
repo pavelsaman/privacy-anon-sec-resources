@@ -51,6 +51,7 @@
 
 - https://pidgin.im/, OTR plugin https://otr.cypherpunks.ca/
 - https://www.signal.org/
+- https://getsession.org/
 
 ## SMS
 
