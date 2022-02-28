@@ -32,6 +32,7 @@
 ## Internet Searching & Wiki
 
 - https://duckduckgo.com/
+- https://startpage.com/
 - https://swisscows.com/
 - https://www.startpage.com/
 - https://www.qwant.com/
