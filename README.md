@@ -31,10 +31,9 @@
 
 ## Internet Searching & Wiki
 
-- https://duckduckgo.com/
 - https://startpage.com/
+- https://duckduckgo.com/
 - https://swisscows.com/
-- https://www.startpage.com/
 - https://www.qwant.com/
 - https://wikiless.org/
 - https://github.com/sherlock-project/sherlock
