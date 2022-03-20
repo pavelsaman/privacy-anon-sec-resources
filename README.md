@@ -28,6 +28,8 @@
   - https://obsigna.com/articles/1540564495.html
   - https://firefox-source-docs.mozilla.org/toolkit/components/glean/dev/preferences.html 
 - https://amiunique.org/
+- https://brave.com/
+- Chromium
 
 ## Internet Searching & Wiki
 
@@ -52,6 +54,10 @@
 - https://pidgin.im/, OTR plugin https://otr.cypherpunks.ca/
 - https://www.signal.org/
 - https://getsession.org/
+
+## Video Conferencing
+
+- https://meet.jit.si/
 
 ## SMS
 
