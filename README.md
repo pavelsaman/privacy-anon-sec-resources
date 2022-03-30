@@ -54,6 +54,7 @@
 - https://pidgin.im/, OTR plugin https://otr.cypherpunks.ca/
 - https://www.signal.org/
 - https://getsession.org/
+- https://briarproject.org/
 
 ## Video Conferencing
 
@@ -89,6 +90,8 @@
 - to strip EXIF data: https://exiftool.org/
 - https://dangerzone.rocks/, https://github.com/firstlookmedia/dangerzone
 - https://onionshare.org/
+- ObscuraCam https://guardianproject.info/apps/obscuracam/
+- Scrambled Exif https://gitlab.com/juanitobananas/scrambled-exif
 
 ## Pastebins
 
@@ -124,6 +127,7 @@
 
 - https://www.openstreetmap.org/
 - https://organicmaps.app/ for Android
+- https://osmand.net/
 
 ## Android keyboards
 
