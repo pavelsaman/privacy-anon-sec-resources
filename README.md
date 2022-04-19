@@ -30,6 +30,12 @@
 - https://amiunique.org/
 - https://brave.com/
 - Chromium
+- https://whatsmyua.info/ - test what UA string your browser sends
+- https://coveryourtracks.eff.org/ - test privacy settings of your browser
+- Canvas Fingerprint Defender https://mybrowseraddon.com/canvas-defender.html
+- User-Agent Switcher https://gitlab.com/ntninja/user-agent-switcher
+- I also recommend using different browsers and switching between them; and set your browser in a way that all cookies and browsing data are deleted when the browser is closed, then get into the habit of closing and starting over your browser every now and then
+  - one can also use https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete for that, but I like having as few add-ons as possible
 
 ## Internet Searching & Wiki
 
