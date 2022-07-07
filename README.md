@@ -150,4 +150,4 @@
 ## Other Tools
 
 - find out where you (or your ISP) is: https://whatismyipaddress.com/, https://api.ivpn.net/v4/geo-lookup
-- find out what sides are blocked by ISPs in the CZE: https://www.mfcr.cz/cs/soukromy-sektor/hazardni-hry/seznam-nepovolenych-internetovych-her, https://csnog.github.io/MFCR-blacklist/
+- find out what sites are blocked by ISPs in the CZE: https://www.mfcr.cz/cs/soukromy-sektor/hazardni-hry/seznam-nepovolenych-internetovych-her, https://csnog.github.io/MFCR-blacklist/
