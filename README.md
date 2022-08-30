@@ -11,12 +11,14 @@
 - https://blog.uncensoreddns.org/
 - https://digitalcourage.de/support/zensurfreier-dns-server
 - https://github.com/StevenBlack/hosts
+- https://nlnetlabs.nl/projects/unbound/about/
+- https://support.mozilla.org/en-US/kb/firefox-dns-over-https - DNS-over-HTTPS setting in Firefox
 
 ## VPN
 
 - https://www.ivpn.net/
 
-## Browsers
+## Browsers & Browser Extensions
 
 - https://www.torproject.org/, https://tb-manual.torproject.org/bridges/
 - Mozilla enhanced privacy settings:
@@ -27,6 +29,7 @@
   - https://forums.informaction.com/viewtopic.php?p=104170
   - https://obsigna.com/articles/1540564495.html
   - https://firefox-source-docs.mozilla.org/toolkit/components/glean/dev/preferences.html 
+  - https://support.mozilla.org/en-US/kb/firefox-dns-over-https
 - https://amiunique.org/
 - https://brave.com/
 - Chromium
@@ -36,6 +39,8 @@
 - User-Agent Switcher https://gitlab.com/ntninja/user-agent-switcher
 - I also recommend using different browsers and switching between them; and set your browser in a way that all cookies and browsing data are deleted when the browser is closed, then get into the habit of closing and starting over your browser every now and then
   - one can also use https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete for that, but I like having as few add-ons as possible
+- https://addons.mozilla.org/en-GB/firefox/addon/clearurls/
+
 
 ## Internet Searching & Wiki
 
@@ -45,6 +50,7 @@
 - https://www.qwant.com/
 - https://wikiless.org/
 - https://github.com/sherlock-project/sherlock
+- https://searx.space/
 
 ## Email
 
@@ -61,6 +67,7 @@
 - https://www.signal.org/
 - https://getsession.org/
 - https://briarproject.org/
+- https://www.privacytools.io/encrypted-messaging/
 
 ## Video Conferencing
 
@@ -141,6 +148,7 @@
 
 ## Storage
 
+- your own external and encrypted disk
 - https://crypt.ee/
 
 ## Notes
@@ -151,3 +159,5 @@
 
 - find out where you (or your ISP) is: https://whatismyipaddress.com/, https://api.ivpn.net/v4/geo-lookup
 - find out what sites are blocked by ISPs in the CZE: https://www.mfcr.cz/cs/soukromy-sektor/hazardni-hry/seznam-nepovolenych-internetovych-her, https://csnog.github.io/MFCR-blacklist/
+- https://justdeleteme.xyz/
+- https://redact.dev/
