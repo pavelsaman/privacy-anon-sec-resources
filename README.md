@@ -85,6 +85,9 @@
 - https://www.veracrypt.fr
 - https://github.com/FiloSottile/age
 - https://wikiless.org/wiki/Linux_Unified_Key_Setup?lang=en
+- https://github.com/sh-dv/hat.sh
+  - browser app for file encryption, but works only locally in a browser
+  - once loaded, it doesn't require an internet connection
 
 ## Password Managers
 
