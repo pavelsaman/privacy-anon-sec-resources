@@ -13,6 +13,7 @@
 - https://github.com/StevenBlack/hosts
 - https://nlnetlabs.nl/projects/unbound/about/
 - https://support.mozilla.org/en-US/kb/firefox-dns-over-https - DNS-over-HTTPS setting in Firefox
+- https://www.dnsleaktest.com/
 
 ## VPN
 
