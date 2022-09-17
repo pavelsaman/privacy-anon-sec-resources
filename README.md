@@ -14,6 +14,7 @@
 - https://nlnetlabs.nl/projects/unbound/about/
 - https://support.mozilla.org/en-US/kb/firefox-dns-over-https - DNS-over-HTTPS setting in Firefox
 - https://www.dnsleaktest.com/
+- https://mullvad.net/en/check/
 
 ## VPN
 
@@ -31,6 +32,7 @@
   - https://obsigna.com/articles/1540564495.html
   - https://firefox-source-docs.mozilla.org/toolkit/components/glean/dev/preferences.html 
   - https://support.mozilla.org/en-US/kb/firefox-dns-over-https
+  - `media.peerconnection.enabled` to `false`
 - https://amiunique.org/
 - https://brave.com/
 - Chromium
