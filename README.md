@@ -54,7 +54,7 @@
   - one can also use https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete for that, but I like having as few add-ons as possible
 - https://addons.mozilla.org/en-GB/firefox/addon/clearurls/
 - https://addons.mozilla.org/en-US/firefox/addon/webrtc-control/
-
+- https://browserleaks.com/
 
 ## Internet Searching & Wiki
 
