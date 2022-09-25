@@ -19,6 +19,7 @@
 ## VPN
 
 - https://www.ivpn.net/
+- https://browserleaks.com/ip
 
 ## Browsers & Browser Extensions
 
