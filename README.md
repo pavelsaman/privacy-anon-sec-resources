@@ -19,7 +19,15 @@
 ## VPN
 
 - https://www.ivpn.net/
+
+## IP checks
+
 - https://browserleaks.com/ip
+- https://check.torproject.org/
+- https://www.mojeip.cz/
+- https://test-ipv6.com/
+- https://webbrowsertools.com/test-webrtc-leak/
+- https://nordvpn.com/ip-lookup/
 
 ## Browsers & Browser Extensions
 
@@ -44,6 +52,7 @@
 - I also recommend using different browsers and switching between them; and set your browser in a way that all cookies and browsing data are deleted when the browser is closed, then get into the habit of closing and starting over your browser every now and then
   - one can also use https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete for that, but I like having as few add-ons as possible
 - https://addons.mozilla.org/en-GB/firefox/addon/clearurls/
+- https://addons.mozilla.org/en-US/firefox/addon/webrtc-control/
 
 
 ## Internet Searching & Wiki
