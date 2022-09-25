@@ -27,6 +27,7 @@
 - https://www.mojeip.cz/
 - https://test-ipv6.com/
 - https://webbrowsertools.com/test-webrtc-leak/
+- https://api.ivpn.net/v4/geo-lookup
 - https://nordvpn.com/ip-lookup/
 
 ## Browsers & Browser Extensions
