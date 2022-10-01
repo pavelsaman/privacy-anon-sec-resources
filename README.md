@@ -82,6 +82,7 @@
 - https://getsession.org/
 - https://briarproject.org/
 - https://www.privacytools.io/encrypted-messaging/
+- https://silence.im/
 
 ## Video Conferencing
 
